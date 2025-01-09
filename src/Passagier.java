@@ -1,3 +1,9 @@
+/**
+ * De Passagier-klasse vertegenwoordigt een reiziger
+ * met onder andere bagagegewicht.
+ * Erft van Persoon.
+ */
+
 public class Passagier extends Persoon {
     private double bagageGewicht;
 

@@ -1,3 +1,8 @@
+/**
+ * De Adres-klasse bewaart informatie over
+ * de straatnaam, huisnummer/bus en woonplaats van een persoon.
+ */
+
 public class Adres {
     private String straatnaam;
     private String bus;

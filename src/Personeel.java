@@ -1,3 +1,9 @@
+/**
+ * De Personeel-klasse vertegenwoordigt
+ * een personeelslid op de luchthaven (bijv. piloot).
+ * Erft van Persoon en bevat een beroep.
+ */
+
 public class Personeel extends Persoon {
     private String beroep; // "Piloot", "Cabinepersoneel", ...
 

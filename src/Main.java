@@ -1,6 +1,12 @@
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * De Main-klasse start de applicatie en toont het keuzemenu.
+ * Via het keuzemenu kunnen gebruikers passagiers en vluchten aanmaken,
+ * tickets maken, boarding doen, personeel toewijzen en vluchtinfo printen.
+ */
+
 public class Main {
 
     private static final Scanner scanner = new Scanner(System.in);

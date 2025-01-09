@@ -4,6 +4,11 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * De Luchthaven-klasse beheert lijsten van Passagier, Personeel, Vliegtuig, Ticket,
+ * en biedt methodes om deze objecten aan te maken en te koppelen.
+ */
+
 public class Luchthaven {
     private List<Passagier> passagiers;
     private List<Personeel> personeelsLeden;

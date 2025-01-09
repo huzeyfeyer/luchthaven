@@ -1,3 +1,8 @@
+/**
+ * Een Ticket bevat de koppeling tussen Passagier en Vliegtuig,
+ * met daarbij een klasse (Economy/Business) en een stoelnummer.
+ */
+
 public class Ticket {
     private Passagier passagier;
     private Vliegtuig vlucht;

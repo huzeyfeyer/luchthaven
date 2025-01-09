@@ -1,6 +1,12 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * De Vliegtuig-klasse representeert een vliegtuig
+ * met begin- en eindbestemming, aantal economy- en businessstoelen,
+ * en lijsten voor passagiers en personeel.
+ */
+
 public class Vliegtuig {
     private String vluchtcode;
     private String beginbestemming;   // baslangic

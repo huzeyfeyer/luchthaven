@@ -1,3 +1,8 @@
+/**
+ * De Persoon-klasse is een basisklasse voor Passagiers en Personeel.
+ * Bevat algemene velden zoals naam, voornaam, leeftijd en adres.
+ */
+
 public class Persoon {
     private String naam;       // Achternaam
     private String voornaam;   // Voornaam
